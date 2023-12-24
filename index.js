@@ -1,9 +1,8 @@
 const fs = require('fs/promises');
+const config = require("./config.json");
 
 const url = 'https://api.discord.gx.games/v1/direct-fulfillment';
 const outputFile = 'tokens.txt';
-
-const config = require("./config.json");
 
 setInterval(() => {
   (async () => {
