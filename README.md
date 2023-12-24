@@ -17,12 +17,6 @@ Before running the script, make sure you have the following installed:
    git clone https://github.com/w0ahL/OPX-Nitro-Generator.git
    ```
 
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd OPX-Nitro-Generator
-   ```
-
 ## Configuration
 
 Modify the `config.json` file to customize the script behavior if you need:
